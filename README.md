@@ -1,7 +1,7 @@
 # 🧠 Deep Research
 
 Deep Research is an AI-powered pipeline for automated web research, report generation, and email delivery.  
-It leverages multiple specialized agents (planner, searcher, writer, and emailer) to turn a simple query into a **detailed, structured research report** — and even send it straight to your inbox.
+It leverages multiple specialized agents (planner, searcher, writer, and emailer) to turn a simple query into a **detailed, structured research report** — and even send it straight to your inbox. The framework used in this project is **OPENAI SDK**
 
 ---
 
