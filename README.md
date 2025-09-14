@@ -19,14 +19,31 @@ It leverages multiple specialized agents (planner, searcher, writer, and emailer
 
 ## 📂 Project Structure
 
-├── deep_research.py # Main Gradio interface for running research queries
-├── research_manager.py # Orchestrates the entire research workflow
-├── planner_agent.py # Plans the best web searches
-├── search_agent.py # Executes searches and summarizes findings
-├── writer_agent.py # Writes a detailed research report
-├── email_agent.py # Sends formatted report via email
-└── agents/ # Shared agent logic (Agent, Runner, tools, etc.)
+deep_research.py: Main Gradio interface for running research queries
 
+
+
+research_manager.py: Orchestrates the entire research workflow
+
+
+
+planner_agent.py: Plans the best web searches
+
+
+
+search_agent.py: Executes searches and summarizes findings
+
+
+
+writer_agent.py: Writes a detailed research report
+
+
+
+email_agent.py: Sends formatted report via email
+
+
+
+agents/: Directory containing shared agent logic (Agent, Runner, tools, etc.)
 ---
 
 # `🛠️ Setup Instructions`
